@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="254" height="254" viewBox="0 0 254 254">
+  <defs>
+    <clipPath id="clip-Home_Icon_Active">
+      <rect width="254" height="254"/>
+    </clipPath>
+  </defs>
+  <g id="Home_Icon_Active" data-name="Home Icon Active" clip-path="url(#clip-Home_Icon_Active)">
+    <g id="Group_12" data-name="Group 12" transform="translate(-34.959 -1922.51)">
+      <line id="Line_1" data-name="Line 1" y1="85.081" x2="103.459" transform="translate(58.5 1957.763)" fill="none" stroke="#c38f5d" stroke-linecap="round" stroke-width="12"/>
+      <line id="Line_2" data-name="Line 2" x1="103.459" y1="85.081" transform="translate(161.959 1957.763)" fill="none" stroke="#c38f5d" stroke-linecap="round" stroke-width="12"/>
+      <line id="Line_3" data-name="Line 3" y2="116.391" transform="translate(82.209 2025.601)" fill="none" stroke="#c38f5d" stroke-linecap="round" stroke-width="12"/>
+      <line id="Line_4" data-name="Line 4" y2="116.391" transform="translate(241.709 2025.601)" fill="none" stroke="#c38f5d" stroke-linecap="round" stroke-width="12"/>
+      <line id="Line_5" data-name="Line 5" x2="155.188" transform="translate(84.365 2141.993)" fill="none" stroke="#c38f5d" stroke-linecap="round" stroke-width="12"/>
+      <line id="Line_6" data-name="Line 6" y1="64.662" transform="translate(136.094 2077.331)" fill="none" stroke="#c38f5d" stroke-linecap="round" stroke-width="12"/>
+      <line id="Line_7" data-name="Line 7" y1="64.662" transform="translate(187.824 2077.331)" fill="none" stroke="#c38f5d" stroke-linecap="round" stroke-width="12"/>
+      <line id="Line_8" data-name="Line 8" x1="47.419" transform="translate(138.25 2077.331)" fill="none" stroke="#c38f5d" stroke-linecap="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>
