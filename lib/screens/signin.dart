@@ -135,19 +135,6 @@ class _SignInScreenState extends State<SignInScreen> {
                                       ? (EdgeInsets.only(top: _top * 1.5))
                                       : (EdgeInsets.only(top: _top * 2.5)),
                               child: Image.asset(
-                                'assets/images/protean_logo.png',
-                                width: _width / 2.5,
-                                height: _width / 4,
-                                fit: BoxFit.contain,
-                              ),
-                            ),
-                            Padding(
-                              padding: _large
-                                  ? EdgeInsets.only(top: _top * 5.5)
-                                  : _medium
-                                      ? (EdgeInsets.only(top: _top * 1.5))
-                                      : (EdgeInsets.only(top: _top * 2.5)),
-                              child: Image.asset(
                                 'assets/images/fossgen_logo.png',
                                 width: _width / 2.5,
                                 height: _width / 4,
@@ -171,7 +158,7 @@ class _SignInScreenState extends State<SignInScreen> {
                   child: Padding(
                     padding: EdgeInsets.only(bottom: _bottom),
                     child: const Text(
-                      'Powerd by Protean & Fossgen',
+                      'Powerd by Fossgen',
                       style:
                           TextStyle(fontSize: 14, fontWeight: FontWeight.w500),
                     ),
