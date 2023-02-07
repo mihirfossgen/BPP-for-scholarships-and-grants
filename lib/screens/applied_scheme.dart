@@ -1,5 +1,10 @@
-import 'dart:convert';
+////////////////////////////////////////////////////////////
+/// Company Name - Fossgen Technologies Pvt Ltd
+/// Contact Us - https://fossgentechnologies.com/contact-us/
+/// Support - support@fossgentechnologies.com
+//////////////////////////////////////////////////////////
 
+import 'dart:convert';
 import 'package:dsep_bpp/screens/applied_screen_detail.dart';
 import 'package:dsep_bpp/utils/colors_widget.dart';
 import 'package:dsep_bpp/widgets/custom_loader.dart';

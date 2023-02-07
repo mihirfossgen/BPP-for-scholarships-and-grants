@@ -1,3 +1,9 @@
+////////////////////////////////////////////////////////////
+/// Company Name - Fossgen Technologies Pvt Ltd
+/// Contact Us - https://fossgentechnologies.com/contact-us/
+/// Support - support@fossgentechnologies.com
+//////////////////////////////////////////////////////////
+
 import 'dart:io' show Platform, exit;
 import 'package:dsep_bpp/screens/home_screen.dart';
 import 'package:dsep_bpp/screens/signup.dart';
